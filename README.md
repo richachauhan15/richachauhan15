@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm Richa Chauhan</h1>
 <h3 align="center">BTech IT Student | Open Source Contributor | Python & Java Developer</h3>
 
@@ -139,7 +139,6 @@
 </a>
 </p>
 
----
 
 # ✨ Quote
 
