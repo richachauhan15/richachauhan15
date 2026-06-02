@@ -1,147 +1,197 @@
-
 <h1 align="center">Hi 👋, I'm Richa Chauhan</h1>
-<h3 align="center">BTech IT Student | Open Source Contributor | Python & Java Developer</h3>
+
+<h3 align="center">
+Open Source Contributor • B.Tech IT Student • Software Developer
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=richachauhan15&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Open+Source+Contributor;Software+Developer;GSSoC+2026+Contributor;Building+Projects+and+Learning+Every+Day;Passionate+About+Technology+and+Innovation" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=richachauhan15&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/richachauhan15?label=Followers&style=for-the-badge" />
 </p>
 
 ---
 
-# 🚀 About Me
+## 👩‍💻 About Me
 
-🎓 BTech in Information Technology at NIET, Greater Noida  
-💻 Passionate about Software Development, Open Source, and Problem Solving  
-🌱 Currently learning Full Stack Development, DSA, and Open Source Contribution  
-🏆 Selected Contributor for GirlScript Summer of Code 2026 (GSSoC'26)  
-✨ Interested in building impactful and scalable tech solutions  
+I'm an Information Technology undergraduate passionate about software development, open-source collaboration, and building technology that creates real-world impact.
+
+I actively contribute to open-source projects through **GirlScript Summer of Code 2026 (GSSoC'26)**, where I work on feature development, bug fixes, UI improvements, and collaborative software engineering workflows. Through these contributions, I have gained practical experience working with real codebases, reviewing feedback, and delivering production-ready solutions.
+
+I enjoy solving problems, learning new technologies, and transforming ideas into meaningful projects. My goal is to continuously grow as a developer while contributing to products and communities that make a difference.
+
+🔭 Currently contributing to Open Source through GSSoC 2026
+
+🛠️ Contributor at Checkora
+
+🌱 Learning Full Stack Development, Advanced DSA, and Software Engineering
+
+💡 Interested in Web Development, AI, and Emerging Technologies
+
+🤝 Open to collaboration and exciting development opportunities
+
+📍 Greater Noida, India
 
 ---
 
-# 🛠️ Tech Stack
+## 🚀 Tech Stack
 
-## 👨‍💻 Languages
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,c,html,css" />
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,html,css" />
 </p>
 
-## ⚡ Frameworks & Technologies
+### Technologies & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=django,mongodb,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb,django,linux" />
 </p>
 
----
+### Core Concepts
 
-# 📚 Core Subjects
-
-- Data Structures and Algorithms
-- Object-Oriented Programming
-- Database Management Systems
-- Operating Systems
-
----
-
-# 💼 Experience
-
-## 💻 SDE Intern — Prodigy InfoTech
-
-📅 June 2025 – July 2025
-
-- Developed and optimized web-based applications
-- Worked on frontend and backend modules
-- Improved software functionality and performance
-- Collaborated with developers on real-world projects
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* Database Management Systems
+* Operating Systems
+* Software Development Lifecycle
+* Version Control & Collaboration
 
 ---
 
-# 🚀 Featured Projects
+## 🌟 Open Source Journey
 
-## ❤️ Heart Disease Prediction Using Machine Learning
+### GirlScript Summer of Code 2026
+
+* Contributing to real-world open-source projects
+* Working on bug fixes, feature development, and UI improvements
+* Collaborating with maintainers and contributors across projects
+* Gaining experience with professional GitHub workflows
+
+### Checkora
+
+* Contributing to application improvements and new features
+* Working with pull requests, issue tracking, and code reviews
+* Enhancing user experience through frontend improvements
+
+---
+
+## 💼 Experience
+
+### Software Development Intern | Prodigy InfoTech
+
+**June 2025 – July 2025**
+
+* Developed and improved web-based applications
+* Worked on frontend and backend functionality
+* Enhanced application performance and usability
+* Collaborated within a development environment using industry practices
+
+---
+
+## 🚀 Featured Projects
+
+### ❤️ Heart Disease Prediction System
 
 **Tech Stack:** Python, Pandas, NumPy, Scikit-Learn
 
-- Built an ML model to predict heart disease
-- Compared Logistic Regression, Decision Tree, and Random Forest
-- Evaluated models using performance metrics
+* Developed a machine learning model for disease prediction
+* Compared multiple classification algorithms
+* Evaluated model performance using industry-standard metrics
 
----
+### 📊 CTR Prediction Model
 
-## 📊 CTR Prediction Model
+**Tech Stack:** Python, Machine Learning
 
-**Tech Stack:** Python, Pandas, Scikit-Learn
+* Built a predictive model for click-through rate analysis
+* Performed preprocessing and feature engineering
+* Improved advertising decision-making through data insights
 
-- Developed a classification model for ad click prediction
-- Performed preprocessing and feature engineering
-- Supported data-driven ad optimization
-
----
-
-## 🏦 Bank Balance and Transaction Tracker
+### 🏦 Banking System
 
 **Tech Stack:** Java, OOP
 
-- Built a menu-driven banking application
-- Implemented deposits, withdrawals, and balance tracking
-- Applied OOP concepts like encapsulation and inheritance
+* Developed a banking application using Object-Oriented Programming
+* Implemented account management and transaction features
+* Applied concepts such as encapsulation, inheritance, and polymorphism
 
 ---
 
-# 🏆 Achievements & Certifications
+## 🏆 Achievements & Certifications
 
-- 🏅 Top 1,500 — Google Big Code 2026
-- ☕ Oracle Certified — Object-Oriented Techniques in Java
-- 🍃 MongoDB Fundamentals — MongoDB
-- 🐍 Object-Oriented Programming using Python — Infosys SpringBoard
-- 💻 Programming in C — Infosys SpringBoard
+🏅 Top 1500 — Google Big Code 2026
+
+☕ Oracle Certified — Object-Oriented Techniques in Java
+
+🍃 MongoDB Fundamentals Certification
+
+🐍 Object-Oriented Programming Using Python
+
+💻 Programming in C Certification
+
+🏆 Contributor — GirlScript Summer of Code 2026
 
 ---
 
-# 📈 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=richachauhan15&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=richachauhan15&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=richachauhan15&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=richachauhan15&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richachauhan15&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richachauhan15&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🌟 Goals for 2026
+## 📈 Contribution Graph
 
-✅ Contribute actively to Open Source  
-✅ Strengthen DSA & Development Skills  
-✅ Build impactful Full Stack and AI projects  
-✅ Grow as a Software Developer  
+[![Richa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=richachauhan15\&theme=tokyo-night)](https://github.com/richachauhan15)
 
 ---
 
-# 🌐 Connect With Me
+## 🎯 2026 Goals
 
-<p>
-<a href="https://www.linkedin.com/in/richachauhan15/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+✅ Make meaningful open-source contributions
+
+✅ Strengthen problem-solving and DSA skills
+
+✅ Build scalable full-stack applications
+
+✅ Explore AI and emerging technologies
+
+✅ Grow as a software engineer
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/richachauhan15/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
 <a href="mailto:richachauhan0315@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
-<a href="https://github.com/richachauhan15" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="40"/>
+<a href="https://github.com/richachauhan15">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 </p>
 
+---
 
-# ✨ Quote
+## ✨ Developer Philosophy
 
-> "Consistency and curiosity are the keys to becoming a great developer." 🚀
-```
+> “Consistency, curiosity, and continuous learning are the foundations of growth in technology.”
+
 
